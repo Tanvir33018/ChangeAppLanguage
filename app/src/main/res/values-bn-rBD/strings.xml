@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ভাষা পরিবর্তন</string>
+    <string name="title_home">হোম</string>
+    <string name="title_dashboard">ড্যাস বোর্ড</string>
+    <string name="title_notifications">নোটিফিকেশন</string>
+    <string name="dashBoard">এটি ড্যাসবোর্ড</string>
+    <string name="change_language">ভাষা পরিবর্তন</string>
+    <string name="bangla">বাংলা</string>
+    <string name="english">English</string>
+    <string name="home">এটি হোম</string>
+</resources>

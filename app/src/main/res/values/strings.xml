@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChangeAppLanguage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dashBoard">This is Dashboard</string>
+    <string name="change_language">Change Language</string>
+    <string name="bangla">Bangla</string>
+    <string name="english">English</string>
+    <string name="home">This is Home</string>
+</resources>
